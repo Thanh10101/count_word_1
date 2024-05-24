@@ -1,2 +1,4 @@
 requests
 beatifulsoup4
+openpyxl
+pandas
